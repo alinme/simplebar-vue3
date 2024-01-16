@@ -1,6 +1,6 @@
 {
    "name": "@alinsme/simplebar-vue3",
-   "version": "0.2.2",
+   "version": "0.2.3",
    "main": "./dist/simplebar-vue3.umd.js",
    "module": "./dist/simplebar-vue3.mjs",
    "types": "./dist/types/lib.d.ts",
@@ -44,7 +44,7 @@
       "vue-tsc": "^0.38.9"
    },
    "peerDependencies": {
-      "simplebar": "5.3.8",
+      "simplebar": "5.3.9",
       "vue": "^3.2.37"
    }
 }
